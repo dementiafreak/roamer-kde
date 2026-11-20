@@ -1,0 +1,17 @@
+{
+   "KPackageStructure": "Plasma/Theme",
+   "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jaylikescats757@gmail.com",
+                "Name": "DementiaFreak",
+            }
+        ],
+        "Category": "",
+        "Description": "Roamer - A nature-like theme for my wife <3",
+        "Id": "roamer",
+        "License": "GPL-3.0",
+        "Name": "Roamer",
+        "Version": "1.0",
+    }
+}

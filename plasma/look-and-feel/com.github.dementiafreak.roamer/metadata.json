@@ -1,0 +1,17 @@
+{
+   "KPackageStructure": "Plasma/LookAndFeel",
+   "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jaylikescats757@gmail.com",
+                "Name": "DementiaFreak"
+            }
+        ],
+        "Category": "",
+        "Description": "Global bundle for Roamer",
+        "Id": "com.github.dementiafreak.roamer",
+        "License": "GPL-3.0",
+        "Name": "Roamer",
+        "Version": "1.0"
+    }
+}
